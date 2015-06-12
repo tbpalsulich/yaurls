@@ -1,9 +1,9 @@
 # yaurls
-Yet another URL shortener
+Yet another URL shortener: http://tspurls.herokuapp.com/RmtodQ
 
 This is a simple Python 3 Flask application used to shorten URLs. The app uses a single Postgresql table to store a map from random hashes to URLs. You can run this locally or easily deploy to Heroku.
 
-## Install
+## Install and run locally
 1. `git clone git@github.com:tpalsulich/yaurls.git`
 2. `cd yaurls`
 3. `virtualenv venv && . venv/bin/activate`
